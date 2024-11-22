@@ -12,7 +12,8 @@ sobre o projeto, qualquer dúvida sobre o projeto é com eles
 
 SCRUM MASTER
 
-O Scrum Master é quem gerencia o Scrum. è a pessoa que organiza tudo
+O Scrum Master é quem gerencia o Scrum. è a pessoa que organiza e gerencia todo
+o projeto SCRUM.
 
 
 EQUIPE DE TECNOLOGIA
