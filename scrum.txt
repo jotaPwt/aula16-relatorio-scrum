@@ -1,0 +1,11 @@
+SCRUM
+
+O Scrum é um framework utilizado pelas Startups, para que os projetos da empresa sejam organizados. Um projeto é composto por pessoas de diferentes cargos, sendo eles: Scrum Master, PO, Líder de equipe e a Equipe de tecnologia.
+
+O PO é responsavél por dar o Suporte para a Equipe de tecnologia, o PO sabe de tudo sobre o projeto, qualquer dúvida sobre o projeto é com eles
+
+O Scrum Master é quem gerencia o Scrum. è a pessoa que organiza tudo
+
+A equipe de tecnologia é responsavél pela criação do projeto, são profissionais de programação, tanto de back-end quanto front-end, juntos eles desenvolvem um único  projeto
+
+O líder de Equipe é responsavél pela equipe de tecnologia, sendo encarregado de orientar e ajudar a equipe de tecnologia.
